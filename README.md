@@ -37,12 +37,9 @@
             <li>微信：YourWeChatID</li>
             <li>LinkedIn：<a href="#">个人主页链接</a></li>
             <!DOCTYPE html>
-<html>
 <head>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
-<body>
-    <!-- 你的其他网页内容 -->
 </body>
 </html>
         </ul>
